@@ -1,0 +1,29 @@
+﻿
+@page "/todo"
+@inject IJSRuntime JS
+
+
+<button class="btn btn-primary" @onclick="AddToDo">Click Me </button>
+<button class="btn btn-primary" @onclick="InvokeJavaScript">Invoke JavaScript </button>
+
+
+<h1>Welcome ToDo Page - here we will consume the new API</h1>
+
+@code {
+
+    private int count = 0;
+
+    private void AddToDo()
+    {
+        count++;
+    }
+
+    private void InvokeJavaScript()
+    {
+     
+      JS.InvokeVoidAsync("DeleteCache");
+      JS.InvokeVoidAsync("HellowAlert");
+
+    }
+
+}

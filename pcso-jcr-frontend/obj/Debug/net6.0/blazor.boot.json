@@ -196,13 +196,13 @@
       "mscorlib.dll": "sha256-tSv6NEbBsHuM5P3AUJGybafS0hxrXlzDmmcyG2eGk3I=",
       "netstandard.dll": "sha256-klcvWVyHimPfDxg6W1A076EKpCB5ySxjtc7sxJEsGgE=",
       "System.Private.CoreLib.dll": "sha256-Y8kdbfPQ0YoYLGbOgzRmoVsnuMYNlA1hvLvDWFTtzrk=",
-      "pcso-jcr-frontend.dll": "sha256-6uWaoC5IBUTx2+EuWh3UigZFlaXx0tYCfxSd25svl\/k="
+      "pcso-jcr-frontend.dll": "sha256-AMXI8uUaSaN7R\/D7AGfSCL3utVWHbfiDogZfVIHLIg8="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "pcso-jcr-frontend.pdb": "sha256-vSti1CN\/flkiBmoy17NzJHuHxttcy663rgkHv3Yr6uY="
+      "pcso-jcr-frontend.pdb": "sha256-1A31TVrtW9S4aF8qTaj617ODS6Dzm67p5eZis0l4NdY="
     },
     "runtime": {
       "dotnet.6.0.3.mr4vbhg0hc.js": "sha256-pRmcHKZN4T\/YbX9dj6ITT4sNtkJ9w07OLcwl4645nPg=",
