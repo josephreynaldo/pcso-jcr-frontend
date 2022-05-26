@@ -4,43 +4,42 @@
 @using System.Text.Json.Serialization;
 @using System.Net.Http.Headers
 
-<h1>Welcome ToDo Page</h1>
-<!--h3>@jsonData</h3-->
-
-
-@if (todoList == null)
+@if (todoList != null)
 {
-    <p><em>Loading...</em></p>
-}
-else
-{
-    <table class="table">
-        <thead>
-            <tr>
-                <th>Name</th>
-                <th>Message</th>
-                <th>Created</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var todo in todoList)
-            {
-                <tr>
-                    <td>@todo.name</td>
-                    <td>@todo.message</td>
-                    <td>@todo.created</td>
-                </tr>
-            }
-        </tbody>
-    </table>
+    @foreach (var todo in todoList)
+    {
+        <MudCard>
+            <!--MudCardMedia Image="images/satya.jfif" Height="50" /-->
+            <MudCardContent>
+                <MudText Typo="Typo.h5" Color="Color.Primary">@todo.name</MudText>
+                <MudText Typo="Typo.body1">@todo.message</MudText>
+                <MudText Typo="Typo.body2">@todo.created</MudText>  
+            </MudCardContent>
+        </MudCard>
+        <br />
+    }
 }
 
-  <input @bind="name" placeholder="type name"/>
-  <input @bind="message" placeholder="type message" />
-  <br><br>
-<button class="btn btn-primary" @onclick="AddToDo">Add To Do</button>
-<button class="btn btn-primary" @onclick="InvokeJavaScript">Invoke JavaScript</button>
-<button class="btn btn-primary" @onclick="DeleteAll">Delete All</button>
+<MudTextField @bind-Value="name" Label="Name" Variant="Variant.Outlined"></MudTextField>
+<MudTextField @bind-Value="message" Label="Message" Variant="Variant.Outlined"></MudTextField>
+
+ <br>
+
+ <MudButton Variant="Variant.Filled" 
+            EndIcon="@Icons.Material.Filled.Send" 
+            OnClick="AddToDo"
+            Color="Color.Primary">Add</MudButton>
+
+ <MudButton Variant="Variant.Filled" 
+            EndIcon="@Icons.Material.Filled.Send" 
+            OnClick="InvokeJavaScript"
+            Color="Color.Primary">Update App</MudButton>
+
+<MudButton Variant="Variant.Filled" 
+            EndIcon="@Icons.Material.Filled.Send"
+            OnClick="DeleteAll"
+            Color="Color.Error">Delete List</MudButton>
+
 @code {
     private int count = 0;
     private string jsonData;
@@ -49,10 +48,16 @@ else
     private string name;
     private string message;
 
+    protected async override Task OnInitializedAsync()
+    {
+        await GetListAsync();
+        base.OnInitializedAsync();
+    }
+
     private async void DeleteAll()
     {
         HttpClient httpClient = new HttpClient();
-        await httpClient.DeleteAsync("https://pcso-jcr-backend.azurewebsites.net/todoitems");
+        await httpClient.DeleteAsync("https://pcso-ali-backend.azurewebsites.net/todoitems");
         await GetListAsync();
         StateHasChanged();
     }
@@ -86,7 +91,6 @@ else
         jsonData = await httpClient.GetStringAsync("https://pcso-jcr-backend.azurewebsites.net/todoitems");
 
         todoList = JsonSerializer.Deserialize<List<ToDoItem>>(jsonData);
-        name = null;
         message = null;
     }
 

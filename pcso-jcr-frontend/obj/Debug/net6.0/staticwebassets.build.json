@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "k4zbaloaPY+OqICYKDCFs/CK8hFLlMPGDs/E0s87CaM=",
+  "Hash": "FjNxJOJwy+tHOid+TWsFcIJiDxDwQZeyHXblagFQdO8=",
   "Source": "pcso-jcr-frontend",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,6 +16,40 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\PCSO\\.nuget\\packages\\mudblazor\\6.0.10\\staticwebassets\\MudBlazor.min.css",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\PCSO\\.nuget\\packages\\mudblazor\\6.0.10\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\mudblazor\\6.0.10\\staticwebassets\\MudBlazor.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\PCSO\\.nuget\\packages\\mudblazor\\6.0.10\\staticwebassets\\MudBlazor.min.js",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\PCSO\\.nuget\\packages\\mudblazor\\6.0.10\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\mudblazor\\6.0.10\\staticwebassets\\MudBlazor.min.js"
+    },
     {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.boot.json",
       "SourceId": "pcso-jcr-frontend",
@@ -184,7 +218,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.3\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.4\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -201,7 +235,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.3\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
+      "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.4\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
@@ -218,7 +252,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.3\\lib\\net6.0\\Microsoft.AspNetCore.Components.Forms.dll"
+      "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.4\\lib\\net6.0\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
@@ -235,7 +269,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.3\\lib\\net6.0\\Microsoft.AspNetCore.Components.Web.dll"
+      "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.4\\lib\\net6.0\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
@@ -255,6 +289,57 @@
       "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.3\\lib\\net6.0\\Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
+      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Connections.Abstractions.dll",
+      "SourceId": "pcso-jcr-frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Connections.Abstractions.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.5\\lib\\net6.0\\Microsoft.AspNetCore.Connections.Abstractions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Connections.Client.dll",
+      "SourceId": "pcso-jcr-frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Connections.Client.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\6.0.5\\lib\\net6.0\\Microsoft.AspNetCore.Http.Connections.Client.dll"
+    },
+    {
+      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Connections.Common.dll",
+      "SourceId": "pcso-jcr-frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Connections.Common.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\6.0.5\\lib\\net6.0\\Microsoft.AspNetCore.Http.Connections.Common.dll"
+    },
+    {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
       "SourceId": "pcso-jcr-frontend",
       "SourceType": "Computed",
@@ -269,7 +354,75 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.3\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.4\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
+    },
+    {
+      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.SignalR.Client.Core.dll",
+      "SourceId": "pcso-jcr-frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.SignalR.Client.Core.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\6.0.5\\lib\\net6.0\\Microsoft.AspNetCore.SignalR.Client.Core.dll"
+    },
+    {
+      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.SignalR.Client.dll",
+      "SourceId": "pcso-jcr-frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.SignalR.Client.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\6.0.5\\lib\\net6.0\\Microsoft.AspNetCore.SignalR.Client.dll"
+    },
+    {
+      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.SignalR.Common.dll",
+      "SourceId": "pcso-jcr-frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.SignalR.Common.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\6.0.5\\lib\\net6.0\\Microsoft.AspNetCore.SignalR.Common.dll"
+    },
+    {
+      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
+      "SourceId": "pcso-jcr-frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\6.0.5\\lib\\net6.0\\Microsoft.AspNetCore.SignalR.Protocols.Json.dll"
     },
     {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.CSharp.dll",
@@ -408,6 +561,23 @@
       "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\lib\\net6.0\\Microsoft.Extensions.DependencyInjection.dll"
     },
     {
+      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Features.dll",
+      "SourceId": "pcso-jcr-frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Features.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\microsoft.extensions.features\\6.0.5\\lib\\net6.0\\Microsoft.Extensions.Features.dll"
+    },
+    {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Abstractions.dll",
       "SourceId": "pcso-jcr-frontend",
       "SourceType": "Computed",
@@ -541,7 +711,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\microsoft.jsinterop\\6.0.3\\lib\\net6.0\\Microsoft.JSInterop.dll"
+      "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\microsoft.jsinterop\\6.0.4\\lib\\net6.0\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
@@ -644,6 +814,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.3\\runtimes\\browser-wasm\\lib\\net6.0\\mscorlib.dll"
+    },
+    {
+      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MudBlazor.dll",
+      "SourceId": "pcso-jcr-frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/MudBlazor.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\mudblazor\\6.0.10\\lib\\net6.0\\MudBlazor.dll"
     },
     {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\netstandard.dll",
@@ -1544,7 +1731,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\system.io.pipelines\\6.0.2\\lib\\net6.0\\System.IO.Pipelines.dll"
+      "OriginalItemSpec": "C:\\Users\\PCSO\\.nuget\\packages\\system.io.pipelines\\6.0.3\\lib\\net6.0\\System.IO.Pipelines.dll"
     },
     {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipes.AccessControl.dll",
@@ -3553,6 +3740,23 @@
       "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Dynamic.Runtime.dll"
     },
     {
+      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\0WcL5zDi.gz",
+      "SourceId": "pcso-jcr-frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.SignalR.Protocols.Json.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.SignalR.Protocols.Json.dll"
+    },
+    {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\1+p2hWIj.gz",
       "SourceId": "pcso-jcr-frontend",
       "SourceType": "Computed",
@@ -3636,23 +3840,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.Encoding.dll"
-    },
-    {
-      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\1Y56+s4e.gz",
-      "SourceId": "pcso-jcr-frontend",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\2AP6+8j0.gz",
@@ -4097,6 +4284,23 @@
       "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Globalization.dll"
     },
     {
+      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\92lebp+L.gz",
+      "SourceId": "pcso-jcr-frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\9gKITpNz.gz",
       "SourceId": "pcso-jcr-frontend",
       "SourceType": "Computed",
@@ -4163,6 +4367,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.dll"
+    },
+    {
+      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\A+vJh6LP.gz",
+      "SourceId": "pcso-jcr-frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\aCGT+jlE.gz",
@@ -4265,6 +4486,57 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Overlapped.dll"
+    },
+    {
+      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\bkRTYUrw.gz",
+      "SourceId": "pcso-jcr-frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.SignalR.Common.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.SignalR.Common.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.SignalR.Common.dll"
+    },
+    {
+      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\BSwHIj5f.gz",
+      "SourceId": "pcso-jcr-frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.SignalR.Client.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.SignalR.Client.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.SignalR.Client.dll"
+    },
+    {
+      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\bt5A9W7L.gz",
+      "SourceId": "pcso-jcr-frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.SignalR.Client.Core.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.SignalR.Client.Core.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.SignalR.Client.Core.dll"
     },
     {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\bTKs8W0N.gz",
@@ -4452,6 +4724,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\netstandard.dll"
+    },
+    {
+      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\ECkiKwNH.gz",
+      "SourceId": "pcso-jcr-frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Features.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Features.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Features.dll"
     },
     {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\eeIbSALS.gz",
@@ -4845,23 +5134,6 @@
       "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\dotnet.wasm"
     },
     {
-      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\HoyRDzUT.gz",
-      "SourceId": "pcso-jcr-frontend",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
-    },
-    {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\HtWID+JA.gz",
       "SourceId": "pcso-jcr-frontend",
       "SourceType": "Computed",
@@ -5098,6 +5370,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Compression.FileSystem.dll"
+    },
+    {
+      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\KCMVopy+.gz",
+      "SourceId": "pcso-jcr-frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\kcUNSB+j.gz",
@@ -5559,6 +5848,23 @@
       "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Serialization.Json.dll"
     },
     {
+      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\o1WqE4k1.gz",
+      "SourceId": "pcso-jcr-frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
+    },
+    {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\oETj6Epp.gz",
       "SourceId": "pcso-jcr-frontend",
       "SourceType": "Computed",
@@ -5797,23 +6103,6 @@
       "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Core.dll"
     },
     {
-      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\PTdkf50m.gz",
-      "SourceId": "pcso-jcr-frontend",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
-    },
-    {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\q85e18kx.gz",
       "SourceId": "pcso-jcr-frontend",
       "SourceType": "Computed",
@@ -5848,21 +6137,38 @@
       "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.WebSockets.Client.dll"
     },
     {
-      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\QXBZraHq.gz",
+      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\QqLbdRwT.gz",
       "SourceId": "pcso-jcr-frontend",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Connections.Client.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
+      "RelatedAsset": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Connections.Client.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
+      "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Connections.Client.dll"
+    },
+    {
+      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\qx5qCY1Q.gz",
+      "SourceId": "pcso-jcr-frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Connections.Common.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Connections.Common.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Connections.Common.dll"
     },
     {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\Rb7VhYVA.gz",
@@ -5897,23 +6203,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.SecureString.dll"
-    },
-    {
-      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\rdjM+Qaj.gz",
-      "SourceId": "pcso-jcr-frontend",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\RJFIPP9b.gz",
@@ -6154,6 +6443,23 @@
       "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Json.dll"
     },
     {
+      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\TrcVbeR0.gz",
+      "SourceId": "pcso-jcr-frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/MudBlazor.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MudBlazor.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MudBlazor.dll"
+    },
+    {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\tuPNubcT.gz",
       "SourceId": "pcso-jcr-frontend",
       "SourceType": "Computed",
@@ -6341,23 +6647,6 @@
       "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.Cng.dll"
     },
     {
-      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\VzMCry7O.gz",
-      "SourceId": "pcso-jcr-frontend",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
-    },
-    {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\WDku0P6V.gz",
       "SourceId": "pcso-jcr-frontend",
       "SourceType": "Computed",
@@ -6494,6 +6783,23 @@
       "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.Debug.dll"
     },
     {
+      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\X8S9L9sw.gz",
+      "SourceId": "pcso-jcr-frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Connections.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Connections.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Connections.Abstractions.dll"
+    },
+    {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\Xc9X6rsK.gz",
       "SourceId": "pcso-jcr-frontend",
       "SourceType": "Computed",
@@ -6545,6 +6851,23 @@
       "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Abstractions.dll"
     },
     {
+      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\xlLiIIo9.gz",
+      "SourceId": "pcso-jcr-frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
+    },
+    {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\xnhTcOi0.gz",
       "SourceId": "pcso-jcr-frontend",
       "SourceType": "Computed",
@@ -6579,21 +6902,21 @@
       "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Linq.dll"
     },
     {
-      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\xWfcWSCI.gz",
+      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\XTgdN+eJ.gz",
       "SourceId": "pcso-jcr-frontend",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/System.IO.Pipelines.dll.gz",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipelines.dll",
+      "RelatedAsset": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipelines.dll"
+      "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\yBnU9NLa.gz",
@@ -6662,6 +6985,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\yS0h9hLw.gz",
+      "SourceId": "pcso-jcr-frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.IO.Pipelines.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipelines.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipelines.dll"
     },
     {
       "Identity": "C:\\Users\\PCSO\\source\\repos\\pcso-jcr-frontend\\pcso-jcr-frontend\\obj\\Debug\\net6.0\\build-gz\\Yufp1OQs.gz",
